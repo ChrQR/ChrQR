@@ -1,1 +1,1 @@
-Currently learning honing my skills in Js and Node.
+Currently honing my skills in Js and Node.
